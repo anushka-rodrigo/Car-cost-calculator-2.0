@@ -1,7 +1,7 @@
 # Vehicle Total Cost of Ownership (TCO) Calculator – version 2
 
 ## 📌 Overview
-This is **version 2** of the Vehicle Total Cost of Ownership (TCO) Calculator, built as a **web-based application** using **HTML, CSS, and JavaScript**.  
+This is **version 2** of the Vehicle Total Cost of Ownership (TCO) Calculator, built as a **web-based application** using **HTML, CSS, and JavaScript**. This is a web application with basic UI.  
 
 While the **UI is functional rather than visually polished**, this version was primarily developed to **practice and improve frontend development skills**. It implements the same underlying mathematical model from version 1 but allows users to input vehicle data and immediately see the calculated total costs in a web interface.
 
